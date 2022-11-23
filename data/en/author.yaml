@@ -11,10 +11,6 @@ contactInfo:
     icon: linkedin
     url: "https://www.linkedin.com/in/antoine-ronk/"
     text: "Linkedin"
-  github:
-    icon: github
-    url: "https://github.com/TunnARK/"
-    text: "GitHub"
 # some summary about what you do
 summary:
   - I am a master student in robotics at university of toulouse
