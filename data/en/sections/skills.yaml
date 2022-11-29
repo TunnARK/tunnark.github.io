@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Programming
+  logo: /images/sections/skills/vscode.png
+  summary: "Using VS Code for programming in C/C++, Python, Java"
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system."
+- name: Dendron
+  logo: /images/sections/skills/dendron.png
+  summary: "Using as the main notetaking tool."
+  url: "https://dendron.so/"
+- name: GitHub
+  logo: /images/sections/skills/git.png
+  summary: "Using git for all my programming projects (GitHub Desktop/Command Lines)"
+- name: Microcontrollers
+  logo: /images/sections/skills/microchip.png
+  summary: "Prototyping with Rasberry Py, Arduino, C167 and ESP32"
+- name: Latex
+  logo: /images/sections/skills/latex.png
+  summary: "Using for articles, letters, CV and more"
