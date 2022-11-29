@@ -10,12 +10,12 @@ section:
 designation: Master Student
 # your company information
 company:
-  name: Université Toulouse 3
+  name: The University of Toulouse III
   url: "https://www.univ-tlse3.fr/master-parcours-automatique-et-robotique-auro"
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 # a summary about you
-summary: '...'
+#summary: '...'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
