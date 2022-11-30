@@ -24,7 +24,7 @@ buttons:
 # your projects
 projects:
 - name: Personal Portfolio
-  url: https://github.com/TunnARK/tunnark.github.io
+  url: "https://github.com/TunnARK/tunnark.github.io"
   summary: "Personal portfolio generated using gohugo.io with the toha template."
   tags: ["professional"]
 - name: Knowledge Management
