@@ -40,6 +40,10 @@ projects:
   url: https://tunnark.github.io/UT3-AURO-2223-S10-Dendron/
   summary: "Studying robotics and automation at the University of Toulouse III."
   tags: ["academic"]
+- name: OpenClassRoom - Python
+  summary: "Taking extra courses to further enhance my programming skills in Python"
+  logo: /images/sections/projects/python.png
+  tags: ["academic"]
 - name: Underwater Rugby
   #logo: /images/sections/projects/stuwr.jpg
   url: "https://www.instagram.com/rugbysubaquatique_toulouse/"
