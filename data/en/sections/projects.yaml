@@ -24,20 +24,16 @@ buttons:
 # your projects
 projects:
 - name: Personal Portfolio
-  #logo: /images/sections/projects/toha.png
-  #role: Owner
-  #timeline: "Jun 2019 - Present"
-  #repo: https://github.com/TunnARK/tunnark.github.io
-  url: https://github.com/TunnARK/tunnark.github.io
+  url: "https://github.com/TunnARK/tunnark.github.io"
   summary: "Personal portfolio generated using gohugo.io with the toha template."
   tags: ["professional"]
 - name: Knowledge Management
   logo: /images/sections/skills/dendron.png
-  url: https://tunnark.github.io/UT3-AURO-2223-S10-Dendron/
+  url: "https://tunnark.github.io/UT3-AURO-2223-S10-Dendron/"
   summary: "Structuring my knowledge using Dendron's note-taking tools."
   tags: ["professional"]
 - name: Robotics
-  url: https://tunnark.github.io/UT3-AURO-2223-S10-Dendron/
+  url: "https://tunnark.github.io/UT3-AURO-2223-S10-Dendron/"
   summary: "Studying robotics and automation at the University of Toulouse III."
   tags: ["academic"]
 - name: OpenClassRoom - Python
