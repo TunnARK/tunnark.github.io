@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Ongoing Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Sport
+  filter: "sport"
+- name: Misc.
+  filter: "misc"
+
+# your projects
+projects:
+- name: Personal Portfolio
+  #logo: /images/sections/projects/toha.png
+  #role: Owner
+  #timeline: "Jun 2019 - Present"
+  #repo: https://github.com/TunnARK/tunnark.github.io
+  url: https://github.com/TunnARK/tunnark.github.io
+  summary: "Personal portfolio generated using gohugo.io with the toha template."
+  tags: ["professional"]
+- name: Knowledge Management
+  logo: /images/sections/skills/dendron.png
+  url: https://tunnark.github.io/UT3-AURO-2223-S10-Dendron/
+  summary: "Structuring my knowledge using Dendron's note-taking tools."
+  tags: ["professional"]
+- name: Robotics
+  url: https://tunnark.github.io/UT3-AURO-2223-S10-Dendron/
+  summary: "Studying robotics and automation at the University of Toulouse III."
+  tags: ["academic"]
+- name: Underwater Rugby
+  #logo: /images/sections/projects/stuwr.jpg
+  url: "https://www.instagram.com/rugbysubaquatique_toulouse/"
+  summary: "Playing Underwater Rugby with the Stade Toulousain"
+  tags: ["sport"]
+- name: Underwater Hockey
+  #logo: /images/sections/projects/stuwr.jpg
+  url: "https://www.instagram.com/choks_underwaterhockey/"
+  summary: "Playing Underwater Hockey with CHOKS"
+  tags: ["sport"]
+- name: Myrmecology
+  url: "https://www.researchgate.net/publication/320764952_Decouverte_de_Camponotus_herculeanus_Linnaeus_1758_et_signalement_de_quelques_autres_especes_rares_de_fourmis_au_Luxembourg_Hymenoptera_Formicidae"
+  summary: "Co-writing of an article for the census of ant species in Luxembourg."
+  tags: ["misc"]
